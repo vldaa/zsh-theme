@@ -35,3 +35,4 @@ PROMPT='%{$reset_color%}%~%{$reset_color%} $(git_prompt_info)%{$reset_color%}$(g
 RPROMPT='%{$fg[black]%}%{$reset_color%}[%*]%{$reset_color%}'
 
 LSCOLORS=Ehfxbxdxcxegedabagacad
+LS_COLORS=di=1;34;40:ln=35;40:so=31;40:pi=33;40:ex=32;40:bd=34;46:cd=34;43:su=0;41:sg=0;46:tw=0;42:ow=0;43:
